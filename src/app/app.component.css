@@ -1,0 +1,11 @@
+
+
+.navbar{font-family: monospace;justify-content: space-between;background-color:gray;height: 50px;font-size: 20px;border-radius: 3px;max-width: 100%;text-align: center;color: gold}
+.navbar span{padding-right: 1rem;}
+.navbar span.active, span:hover{background: gray;transition: .2s;}
+.nav-item{padding: 5px;margin: 5px;}
+.nav-item:hover{border-bottom: 6px solid gold}
+.dash{font-size: 40px;font-weight: 600;}
+
+
+
